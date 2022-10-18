@@ -1,25 +1,33 @@
+# Hello World👋
+
+I am Ved Dadhich.I'm a front‑end developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
+
 # Plant Home Page
 
-> Project 6
+In this project I have created a single page website for Plants.😊
 
-####Tech Stack Used:
-![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML%20&%20CSS-blue?style=for-the-badge)
-![Time taken](https://img.shields.io/badge/Time%20taken-02H%3A05M%3A19S-tomato?style=for-the-badge&logo=Clockify)
-[![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)](https://lawhomepage1.netlify.app/)
+## Link
 
-<table>
-<tr>
-<td>
-  This landing page is designed using pure HTML & CSS.
-</td>
-</tr>
-</table>
+https://planthomepage1.netlify.app
 
-### THis is How the web page looks
+## Tech Stack
 
-![screenshot](./assets/project1.png)
+👉HTML
 
-### Skills Gained from this
+👉CSS
 
-- Learned about flex box and it's properties.
-- Also learned about background properties.
+## Author
+
+- [@Veddadhich1997](https://www.github.com/Veddadhich1997)
+
+## Support
+
+For support, email dadhichved1997@gmail.com
+
+## 🔗 Social Links
+
+https://github.com/Veddadhich1997
+
+https://www.linkedin.com/in/ved-dadhich-964b54249/
+
+https://www.instagram.com/veddadhich4/
